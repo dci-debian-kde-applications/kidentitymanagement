@@ -27,7 +27,10 @@ Package: libkf5identitymanagement-dev
 Section: libdevel
 Architecture: any
 Multi-Arch: foreign
-Depends: libkf5identitymanagement5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5coreaddons-dev,
+         libkf5identitymanagement5 (= ${binary:Version}),
+         libkf5pimtextedit-dev,
+         ${misc:Depends}
 Description: library for managing user identities - development files
  This library provides an API for managing user identities.
  .

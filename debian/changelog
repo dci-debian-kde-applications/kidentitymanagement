@@ -1,6 +1,7 @@
 kidentitymanagement (15.08.0-1~) UNRELEASED; urgency=medium
 
   * Initial Debian release.
+  * Update symbols files.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 11:17:04 +0200
 

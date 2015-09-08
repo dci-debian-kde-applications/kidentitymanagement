@@ -1,9 +1,9 @@
-kidentitymanagement (15.08.0-1~) UNRELEASED; urgency=medium
+kidentitymanagement (15.08.0-1) experimental; urgency=medium
 
   * Initial Debian release.
   * Update symbols files.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 11:17:04 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 20:40:43 +0200
 
 kidentitymanagement (15.08.0-0ubuntu1) wily; urgency=medium
 

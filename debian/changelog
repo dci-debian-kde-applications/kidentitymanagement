@@ -1,3 +1,9 @@
+kidentitymanagement (15.08.0-1~) UNRELEASED; urgency=medium
+
+  * Initial Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 11:17:04 +0200
+
 kidentitymanagement (15.08.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release

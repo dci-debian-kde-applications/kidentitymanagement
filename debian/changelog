@@ -1,6 +1,10 @@
 kidentitymanagement (15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
+
+  [ Scarlett Clark ]
+  * Bump the version requirement for kpimtextedit build dep.
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:55:45 +0000
 

@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 15.08.1 amd64 i386
+# SymbolsHelper-Confirmed: 15.12.0 amd64 i386
 libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  (optional=templinst)_ZN12KConfigGroup10writeEntryIbEEvPKcRKT_6QFlagsIN11KConfigBase15WriteConfigFlagEE@Base 15.07.90
  _ZN19KIdentityManagement13IdentityCombo11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -103,8 +103,6 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZN19KIdentityManagement8Identity9signatureEv@Base 15.07.90
  _ZN19KIdentityManagement8IdentityC1ERK7QStringS3_S3_S3_S3_@Base 15.07.90
  _ZN19KIdentityManagement8IdentityC2ERK7QStringS3_S3_S3_S3_@Base 15.07.90
- _ZN19KIdentityManagement8IdentityD1Ev@Base 15.07.90
- _ZN19KIdentityManagement8IdentityD2Ev@Base 15.07.90
  _ZN19KIdentityManagement8thatIsMeERK7QString@Base 15.07.90
  _ZN19KIdentityManagement9Signature10readConfigERK12KConfigGroup@Base 15.07.90
  _ZN19KIdentityManagement9Signature14setInlinedHtmlEb@Base 15.07.90
@@ -212,7 +210,7 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZNK19KIdentityManagement9Signature13isInlinedHtmlEv@Base 15.07.90
  _ZNK19KIdentityManagement9Signature13withSeparatorEPb@Base 15.07.90
  _ZNK19KIdentityManagement9Signature14embeddedImagesEv@Base 15.07.90
- _ZNK19KIdentityManagement9Signature18insertIntoTextEditENS0_9PlacementE6QFlagsINS0_13AddedTextFlagEEPN12KPIMTextEdit8TextEditEb@Base 15.07.90
+ _ZNK19KIdentityManagement9Signature18insertIntoTextEditENS0_9PlacementE6QFlagsINS0_13AddedTextFlagEEPN12KPIMTextEdit16RichTextComposerEb@Base 15.12.0
  _ZNK19KIdentityManagement9Signature18isEnabledSignatureEv@Base 15.07.90
  _ZNK19KIdentityManagement9Signature3urlEv@Base 15.07.90
  _ZNK19KIdentityManagement9Signature4textEv@Base 15.07.90

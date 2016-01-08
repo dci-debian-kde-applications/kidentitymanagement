@@ -5,6 +5,7 @@ kidentitymanagement (15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * Bump the version requirement for kpimtextedit build dep.
+  * Refresh symbols, removed MISSING, we are opting for rebuild. 
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:55:45 +0000
 

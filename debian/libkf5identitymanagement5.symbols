@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 15.12.0 amd64 i386
+# SymbolsHelper-Confirmed: 15.12.0 amd64
 libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  (optional=templinst)_ZN12KConfigGroup10writeEntryIbEEvPKcRKT_6QFlagsIN11KConfigBase15WriteConfigFlagEE@Base 15.07.90
  _ZN19KIdentityManagement13IdentityCombo11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90

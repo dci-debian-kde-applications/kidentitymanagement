@@ -1,3 +1,11 @@
+kidentitymanagement (15.12.0-3~1.gbp8ad861) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @8ad861183aca9e9e7880c6523b6540820c0b2a21 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:11:35 +0200
+
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 
   * Update build dependencies to follow the package version instead of

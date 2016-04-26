@@ -1,3 +1,13 @@
+kidentitymanagement (16.04.0-1~1.gbpf65b50) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f65b50fc176d51fe717d3562f68acdd246f8fbaa **
+
+  * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 02:11:12 +0200
+
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 
   * Update build dependencies to follow the package version instead of

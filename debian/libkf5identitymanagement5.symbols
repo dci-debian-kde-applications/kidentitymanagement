@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 15.12.0 amd64
+# SymbolsHelper-Confirmed: 16.04.0 amd64
 libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  (optional=templinst)_ZN12KConfigGroup10writeEntryIbEEvPKcRKT_6QFlagsIN11KConfigBase15WriteConfigFlagEE@Base 15.07.90
  _ZN19KIdentityManagement13IdentityCombo11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -109,7 +109,7 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZN19KIdentityManagement9Signature16setImageLocationERK7QString@Base 15.07.90
  _ZN19KIdentityManagement9Signature17setEmbeddedImagesERK5QListI14QSharedPointerINS0_13EmbeddedImageEEE@Base 15.07.90
  _ZN19KIdentityManagement9Signature19setEnabledSignatureEb@Base 15.07.90
- _ZN19KIdentityManagement9Signature6setUrlERK7QStringb@Base 15.07.90
+ _ZN19KIdentityManagement9Signature7setPathERK7QStringb@Base 16.04.0
  _ZN19KIdentityManagement9Signature7setTextERK7QString@Base 15.07.90
  _ZN19KIdentityManagement9Signature7setTypeENS0_4TypeE@Base 15.07.90
  _ZN19KIdentityManagement9Signature8addImageERK6QImageRK7QString@Base 15.07.90
@@ -148,11 +148,11 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZNK19KIdentityManagement15IdentityManager8isUniqueERK7QString@Base 15.07.90
  _ZNK19KIdentityManagement15IdentityManager8thatIsMeERK7QString@Base 15.07.90
  _ZNK19KIdentityManagement15IdentityManager9allEmailsEv@Base 15.07.90
- _ZNK19KIdentityManagement21SignatureConfigurator10commandURLEv@Base 15.07.90
  _ZNK19KIdentityManagement21SignatureConfigurator10metaObjectEv@Base 15.07.90
+ _ZNK19KIdentityManagement21SignatureConfigurator11commandPathEv@Base 16.04.0
  _ZNK19KIdentityManagement21SignatureConfigurator13signatureTypeEv@Base 15.07.90
  _ZNK19KIdentityManagement21SignatureConfigurator18isSignatureEnabledEv@Base 15.07.90
- _ZNK19KIdentityManagement21SignatureConfigurator7fileURLEv@Base 15.07.90
+ _ZNK19KIdentityManagement21SignatureConfigurator8filePathEv@Base 16.04.0
  _ZNK19KIdentityManagement21SignatureConfigurator9signatureEv@Base 15.07.90
  _ZNK19KIdentityManagement8Identity10dictionaryEv@Base 15.07.90
  _ZNK19KIdentityManagement8Identity11attachVcardEv@Base 15.07.90
@@ -212,7 +212,7 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZNK19KIdentityManagement9Signature14embeddedImagesEv@Base 15.07.90
  _ZNK19KIdentityManagement9Signature18insertIntoTextEditENS0_9PlacementE6QFlagsINS0_13AddedTextFlagEEPN12KPIMTextEdit16RichTextComposerEb@Base 15.12.0
  _ZNK19KIdentityManagement9Signature18isEnabledSignatureEv@Base 15.07.90
- _ZNK19KIdentityManagement9Signature3urlEv@Base 15.07.90
+ _ZNK19KIdentityManagement9Signature4pathEv@Base 16.04.0
  _ZNK19KIdentityManagement9Signature4textEv@Base 15.07.90
  _ZNK19KIdentityManagement9Signature4typeEv@Base 15.07.90
  _ZNK19KIdentityManagement9Signature7rawTextEPb@Base 15.07.90

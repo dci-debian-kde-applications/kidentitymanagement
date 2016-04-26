@@ -1,6 +1,6 @@
-kidentitymanagement (16.04.0-1~2.gbp8e0893) UNRELEASED; urgency=medium
+kidentitymanagement (16.04.0-1~3.gbp1379a8) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @8e0893b48c51d978bd34df306a7a98e51ec70576 **
+  ** SNAPSHOT build @1379a883143d919fa1e09de283b53239788fe37c **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @f65b50fc176d51fe717d3562f68acdd246f8fbaa **
@@ -8,6 +8,7 @@ kidentitymanagement (16.04.0-1~2.gbp8e0893) UNRELEASED; urgency=medium
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
+  * Update symbols files
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -15,7 +16,7 @@ kidentitymanagement (16.04.0-1~2.gbp8e0893) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 26 Apr 2016 10:11:18 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 26 Apr 2016 13:57:28 +0200
 
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 

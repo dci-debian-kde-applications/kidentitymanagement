@@ -1,6 +1,6 @@
-kidentitymanagement (16.04.0-1~4.gbp566b19) UNRELEASED; urgency=medium
+kidentitymanagement (16.04.1-1~1.gbp17daa4) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @566b1936b87f6e74371cfbe48a2e77ff6d003c01 **
+  ** SNAPSHOT build @17daa4dcea908670a0e7a18d0ccd9376fd016a17 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @f65b50fc176d51fe717d3562f68acdd246f8fbaa **
@@ -16,8 +16,9 @@ kidentitymanagement (16.04.0-1~4.gbp566b19) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
   * Drop Xephyr hack
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 27 Apr 2016 08:48:56 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:11:10 +0200
 
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 

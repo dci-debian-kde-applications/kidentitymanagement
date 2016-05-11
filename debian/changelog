@@ -1,6 +1,6 @@
-kidentitymanagement (16.04.1-1~1.gbp17daa4) UNRELEASED; urgency=medium
+kidentitymanagement (16.04.1-1~2.gbp8a68aa) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @17daa4dcea908670a0e7a18d0ccd9376fd016a17 **
+  ** SNAPSHOT build @8a68aa9e5988f98a3da2d0c07607baf9d9ab93fd **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @f65b50fc176d51fe717d3562f68acdd246f8fbaa **
@@ -17,8 +17,9 @@ kidentitymanagement (16.04.1-1~1.gbp17daa4) UNRELEASED; urgency=medium
   * Update install files
   * Drop Xephyr hack
   * UNRELEASED
+  * Update testsuite
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:11:10 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 11 May 2016 17:26:29 +0200
 
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 

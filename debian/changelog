@@ -1,12 +1,6 @@
-kidentitymanagement (16.04.1-1~2.gbp8a68aa) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @8a68aa9e5988f98a3da2d0c07607baf9d9ab93fd **
+kidentitymanagement (16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @f65b50fc176d51fe717d3562f68acdd246f8fbaa **
-
-  * Bump Standards-Version to 3.9.8
-  * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
   * Update symbols files
 
@@ -16,10 +10,9 @@ kidentitymanagement (16.04.1-1~2.gbp8a68aa) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
   * Drop Xephyr hack
-  * UNRELEASED
   * Update testsuite
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 11 May 2016 17:26:29 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:23:16 +0200
 
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 

@@ -1,10 +1,8 @@
-kidentitymanagement (16.04.2-1~1.gbp92daef) UNRELEASED; urgency=medium
+kidentitymanagement (16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @92daef60fa8d7316da0ab387a4c8d0179e44563c **
+  * Add new patch: set_icontheme.diff
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 02:11:22 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 27 Jun 2016 16:32:00 +0200
 
 kidentitymanagement (16.04.1-1) unstable; urgency=medium
 

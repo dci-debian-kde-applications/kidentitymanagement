@@ -1,9 +1,16 @@
 From: Maximiliano Curia <maxy@gnuservers.com.ar>
+Date: Tue, 12 Jul 2016 20:11:10 +0200
 Subject: Set the icontheme for the unit_tests
 
+---
+ autotests/signaturetest.cpp | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/autotests/signaturetest.cpp b/autotests/signaturetest.cpp
+index 5617062..4870d3a 100644
 --- a/autotests/signaturetest.cpp
 +++ b/autotests/signaturetest.cpp
-@@ -182,6 +182,7 @@
+@@ -182,6 +182,7 @@ public:
  void SignatureTester::testImages()
  {
      KPIMTextEdit::RichTextComposer edit;

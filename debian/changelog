@@ -1,3 +1,11 @@
+kidentitymanagement (16.04.3-1~1.gbp02b681) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @02b681f5f70bdf694618f89ecdd177ff6682eef3 **
+
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 20:11:23 +0200
+
 kidentitymanagement (16.04.2-1) unstable; urgency=medium
 
   * Add new patch: set_icontheme.diff

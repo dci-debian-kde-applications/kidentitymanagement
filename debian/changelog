@@ -1,8 +1,24 @@
-kidentitymanagement (16.04.1-0neon) xenial; urgency=medium
+kidentitymanagement (16.04.2-1) unstable; urgency=medium
 
-  * New release
+  * Add new patch: set_icontheme.diff
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:16:20 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 27 Jun 2016 16:32:00 +0200
+
+kidentitymanagement (16.04.1-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files
+
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update install files
+  * Drop Xephyr hack
+  * Update testsuite
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:23:16 +0200
 
 kidentitymanagement (15.12.0-2) experimental; urgency=medium
 

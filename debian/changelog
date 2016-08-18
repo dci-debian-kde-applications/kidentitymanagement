@@ -1,10 +1,11 @@
-kidentitymanagement (16.04.3-1~1.gbp02b681) UNRELEASED; urgency=medium
+kidentitymanagement (16.08.0-1~1.gbp3020c2) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @02b681f5f70bdf694618f89ecdd177ff6682eef3 **
+  ** SNAPSHOT build @3020c25224e1a7c5fad63989379e43feefc13c01 **
 
   * Refresh patches
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 20:11:23 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:11:15 +0200
 
 kidentitymanagement (16.04.2-1) unstable; urgency=medium
 

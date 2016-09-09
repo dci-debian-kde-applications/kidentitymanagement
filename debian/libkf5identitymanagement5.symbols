@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 16.04.0 amd64
+# SymbolsHelper-Confirmed: 16.08.0 amd64 armhf i386
 libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  (optional=templinst)_ZN12KConfigGroup10writeEntryIbEEvPKcRKT_6QFlagsIN11KConfigBase15WriteConfigFlagEE@Base 15.07.90
  _ZN19KIdentityManagement13IdentityCombo11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -30,6 +30,7 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZN19KIdentityManagement15IdentityManager20removeIdentityForcedERK7QString@Base 15.07.90
  _ZN19KIdentityManagement15IdentityManager21modifyIdentityForNameERK7QString@Base 15.07.90
  _ZN19KIdentityManagement15IdentityManager21modifyIdentityForUoidEj@Base 15.07.90
+ _ZN19KIdentityManagement15IdentityManager4selfEv@Base 16.08.0
  _ZN19KIdentityManagement15IdentityManager4sortEv@Base 15.07.90
  _ZN19KIdentityManagement15IdentityManager5addedERKNS_8IdentityE@Base 15.07.90
  _ZN19KIdentityManagement15IdentityManager6commitEv@Base 15.07.90

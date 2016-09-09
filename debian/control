@@ -14,7 +14,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5emoticons-dev (>= 5.23.0~),
                libkf5iconthemes-dev (>= 5.23.0~),
                libkf5kdelibs4support-dev (>= 5.12.0~),
-               libkf5pimtextedit-dev (>= 5.3.0~),
+               libkf5pimtextedit-dev (>= 5.3.1~),
                libkf5textwidgets-dev (>= 5.23.0~),
                libkf5xmlgui-dev (>= 5.23.0~),
                pkg-kde-tools (>> 0.15.15),
@@ -30,7 +30,7 @@ Architecture: any
 Multi-Arch: foreign
 Depends: libkf5coreaddons-dev (>= 5.23.0~),
          libkf5identitymanagement5 (= ${binary:Version}),
-         libkf5pimtextedit-dev (>= 5.3.0~),
+         libkf5pimtextedit-dev (>= 5.3.1~),
          ${misc:Depends}
 Description: library for managing user identities - development files
  This library provides an API for managing user identities.

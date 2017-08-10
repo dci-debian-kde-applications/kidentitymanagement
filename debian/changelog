@@ -1,3 +1,21 @@
+kidentitymanagement (17.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 May 2017 18:18:26 +0000
+
+kidentitymanagement (17.04.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2017 13:04:20 +0000
+
+kidentitymanagement (16.12.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Mar 2017 13:48:34 +0000
+
 kidentitymanagement (16.12.2-0neon) xenial; urgency=medium
 
   * New release

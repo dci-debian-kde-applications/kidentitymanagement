@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 16.08.0 amd64 armhf i386
+# SymbolsHelper-Confirmed: 17.08.0 amd64
 libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  (optional=templinst)_ZN12KConfigGroup10writeEntryIbEEvPKcRKT_6QFlagsIN11KConfigBase15WriteConfigFlagEE@Base 15.07.90
  _ZN19KIdentityManagement13IdentityCombo11qt_metacallEN11QMetaObject4CallEiPPv@Base 15.07.90
@@ -85,6 +85,7 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZN19KIdentityManagement8Identity15setXFaceEnabledEb@Base 15.07.90
  _ZN19KIdentityManagement8Identity16setPGPSigningKeyERK10QByteArray@Base 15.07.90
  _ZN19KIdentityManagement8Identity16setSignatureFileERK7QString@Base 15.07.90
+ _ZN19KIdentityManagement8Identity17setPgpAutoEncryptEb@Base 17.08.0
  _ZN19KIdentityManagement8Identity18setSMIMESigningKeyERK10QByteArray@Base 15.07.90
  _ZN19KIdentityManagement8Identity19setPGPEncryptionKeyERK10QByteArray@Base 15.07.90
  _ZN19KIdentityManagement8Identity20setDefaultDomainNameERK7QString@Base 15.07.90
@@ -170,6 +171,7 @@ libKF5IdentityManagement.so.5 libkf5identitymanagement5 #MINVER#
  _ZNK19KIdentityManagement8Identity13signatureTextEPb@Base 15.07.90
  _ZNK19KIdentityManagement8Identity14isXFaceEnabledEv@Base 15.07.90
  _ZNK19KIdentityManagement8Identity14mailingAllowedEv@Base 15.07.90
+ _ZNK19KIdentityManagement8Identity14pgpAutoEncryptEv@Base 17.08.0
  _ZNK19KIdentityManagement8Identity15smimeSigningKeyEv@Base 15.07.90
  _ZNK19KIdentityManagement8Identity15verifyAkonadiIdERK7QString@Base 15.07.90
  _ZNK19KIdentityManagement8Identity16pgpEncryptionKeyEv@Base 15.07.90

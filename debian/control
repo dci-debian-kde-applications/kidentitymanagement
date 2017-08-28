@@ -36,13 +36,32 @@ Description: library for managing user identities - development files
  This library provides an API for managing user identities.
  .
  This package contains the development files.
+Breaks: libkf5alarmcalendar-dev (<< 4:17.08),
+        libkf5calendarsupport-dev (<< 4:17.08),
+        libkf5incidenceeditor-dev (<< 17.08),
+        libkf5messagecomposer-dev (<< 4:17.08),
 
 Package: libkf5identitymanagement5
 Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Breaks: kde-l10n-ast (<< 4:17.03.90-0~),
+Breaks: accountwizard (<< 4:17.08),
+        kalarm (<< 4:17.08),
+        kde-l10n-ast (<< 4:17.03.90-0~),
         kde-l10n-eo (<< 4:17.03.90-0~),
+        kdepim-runtime (<< 4:17.08),
+        kmail (<< 4:17.08),
+        kontact (<< 4:17.08),
+        korganizer (<< 4:17.08),
+        libkf5akonadicalendar5 (<< 4:17.08),
+        libkf5alarmcalendar5 (<< 4:17.08),
+        libkf5calendarsupport5 (<< 4:17.08),
+        libkf5calendarutils5 (<< 4:17.08),
+        libkf5incidenceeditor5 (<< 17.08),
+        libkf5ksieveui5 (<< 4:17.08),
+        libkf5messagecomposer5 (<< 4:17.08),
+        libkf5messagecore5 (<< 4:17.08),
+        libkf5templateparser5 (<< 4:17.08),
         ${kde-l10n:all},
 Replaces: kde-l10n-ast (<< 4:17.03.90-0~),
           kde-l10n-eo (<< 4:17.03.90-0~),

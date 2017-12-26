@@ -1,5 +1,7 @@
 kidentitymanagement (17.08.3-2) UNRELEASED; urgency=medium
 
+  [ Pino Toscano ]
+  * Properly mark libkf5identitymanagement-dev as Multi-Arch: same.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 26 Dec 2017 15:24:39 +0100
 

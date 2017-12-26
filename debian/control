@@ -25,7 +25,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kidentitymanagement
 Package: libkf5identitymanagement-dev
 Section: libdevel
 Architecture: any
-Multi-Arch: foreign
+Multi-Arch: same
 Depends: libkf5coreaddons-dev (>= 5.35.0~),
          libkf5identitymanagement5 (= ${binary:Version}),
          libkf5pimtextedit-dev (>= 17.08.3~),
